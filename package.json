@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "mathjs": "^6.6.0",
+    "node": "^13.7.0",
+    "nodejs": "^0.0.0"
+  },
+  "name": "componentes-simetricas",
+  "version": "1.0.0",
+  "main": "componentesSimetricas.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
